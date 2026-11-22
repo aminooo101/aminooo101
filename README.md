@@ -1,6 +1,6 @@
 ### Amin Hadian
 
-Barcelona, Spain | Permanent Spanish Residency (Full EU Work Rights) | Available in 1–2 Weeks
+Barcelona, Spain | Full EU Work Rights | Available in 1–2 Weeks
 
 **Core Stack:** Python, C, Linux, Full Stack & Backend (FastAPI, Django, SQL, Docker, GCP) | Hardware & Network Troubleshooting
 
