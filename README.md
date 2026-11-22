@@ -1,16 +1,16 @@
-## Hi there 👋
+### Amin Hadian
 
-<!--
-**aminooo101/aminooo101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Barcelona, Spain | Permanent Spanish Residency (Full EU Work Rights) | Available in 1–2 Weeks
 
-Here are some ideas to get you started:
+**Core Stack:** Python, C, Linux, Full Stack & Backend (FastAPI, Django, SQL, Docker, GCP) | Hardware & Network Troubleshooting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Security:** TryHackMe Top 2% ([amin.hroca](https://tryhackme.com/p/amin.hroca)) — Splunk, Wireshark, Snort, Log & Phishing Triage
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/amin-hadian-841277204) | ahadian@uoc.edu
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [http-security-auditor](https://github.com/aminooo101/http-security-auditor) | CLI tool that audits HTTP security headers and generates scored HTML reports | Python, requests, argparse |
+| [Hotel-Booking-API](https://github.com/aminooo101/Hotel-Booking-API) | REST API for hotel rooms and bookings with JWT auth and tests | FastAPI, SQLAlchemy, pytest, Docker |
+| [task-manager-api](https://github.com/aminooo101/task-manager-api) | Django REST API for tasks and users | Django, DRF |
+| [nyc-taxi-pipeline](https://github.com/aminooo101/nyc-taxi-pipeline) | PySpark pipeline that filters NYC taxi data and loads to BigQuery | PySpark, GCP, Dataproc |
