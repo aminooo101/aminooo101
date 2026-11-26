@@ -1,7 +1,5 @@
 ### Amin Hadian
 
-Barcelona, Spain | Full EU Work Rights | Available in 1–2 Weeks
-
 **Core Stack:** Python, C, Linux, Backend (FastAPI, Django, SQL, Docker, GCP) | Hardware & Network Troubleshooting
 
 **Security:** TryHackMe Top 2% ([amin.hroca](https://tryhackme.com/p/amin.hroca)) — Splunk, Wireshark, Snort, Log & Phishing Triage
